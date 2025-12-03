@@ -22,4 +22,4 @@ A computer vision system for quality control in industrial robotics. It inspects
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/assembly-line-quality-control.git
+   git clone https://github.com/Ambesh22/Detect-defective-products.git
